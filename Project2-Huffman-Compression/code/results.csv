@@ -1,0 +1,7 @@
+FileName,Method,OriginalSize,CompressedSize,CompressionRatio,EncodeTime,DecodeTime
+file_50KB.txt,Huffman,51200,30468,0.5951,40.47,20.26
+file_50KB.txt,Fixed-Length,51200,51200,1.0000,172.93,48.05
+file_200KB.txt,Huffman,204800,122025,0.5958,64.76,21.68
+file_200KB.txt,Fixed-Length,204800,204800,1.0000,77.25,6.56
+file_1MB.txt,Huffman,1048576,624909,0.5960,134.67,66.93
+file_1MB.txt,Fixed-Length,1048576,1048576,1.0000,270.78,26.56
